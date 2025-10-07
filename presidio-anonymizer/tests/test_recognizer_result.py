@@ -289,9 +289,9 @@ from unittest import mock
 def test_logger(mock_logger):
     # replace the following line of `pass` with your test implementation
     result = create_recognizer_result("PERSON",.5,10,11)
-    mock_logger.msg = "created analyzer result: entity_type='PERSON', start=10, end=11, score=.5"
-    assert result.logger.info()
-    assert result.logger.msg == "created analyzer result: entity_type='PERSON', start=10, end=11, score=.5"
+    args  = mock_logger.info.call_args
+    assert mock_logger.info()
+    mock_logger.info.assert_called_with("PERSON",.5,10,11)
 
 
 def create_recognizer_result(entity_type: str, score: float, start: int, end: int):
