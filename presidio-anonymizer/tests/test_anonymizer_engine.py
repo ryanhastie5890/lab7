@@ -277,7 +277,6 @@ def test_given_unsorted_input_then_merged_correctly():
 from unittest import mock
 @mock.patch("presidio_anonymizer.anonymizer_engine.logger")
 def test_given_conflict_input_then_merged_correctly(mock_logger):
-    # replace the following `pass` line with your test implementation
     engine = AnonymizerEngine()
     text = "I'm George Washington Square Park."
     original_analyzer_results = [
@@ -289,7 +288,7 @@ def test_given_conflict_input_then_merged_correctly(mock_logger):
          original_analyzer_results
      )
     assert anonymizer_result.text == "I'm <LOCATION>."
-    assert mock_logger.debug()
+    assert mock_logger.debug.assert_called()
 
 
 def _operate(
