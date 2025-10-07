@@ -16,11 +16,11 @@ Branches in this repo (with details):
     1e967e0 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T16:53:16Z | Auto-update branch-info.txt
     905b61b | Author: Ryan Hastie <231561729+ryanhastie5890@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-07T12:53:05-04:00 | Initial commit
 - main
-  SHA: fde8dc7a08660681eeea2a9d98596b3a1e409811
-  Commits: 24
+  SHA: 2a6d7740d51a70d9da34abea0b00c6099c38b29a
+  Commits: 27
   Recent commits:
+    2a6d774 | Author: Ryan Hastie <231561729+ryanhastie5890@users.noreply.github.com> | Committer: Ryan Hastie <231561729+ryanhastie5890@users.noreply.github.com> | Date: 2025-10-07T20:03:52Z | Merge branch 'lab7'
+    d30d8b9 | Author: Ryan Hastie <231561729+ryanhastie5890@users.noreply.github.com> | Committer: Ryan Hastie <231561729+ryanhastie5890@users.noreply.github.com> | Date: 2025-10-07T20:03:32Z | m
+    88fccff | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T20:01:32Z | Auto-update branch-info.txt
     fde8dc7 | Author: Ryan Hastie <231561729+ryanhastie5890@users.noreply.github.com> | Committer: Ryan Hastie <231561729+ryanhastie5890@users.noreply.github.com> | Date: 2025-10-07T20:01:14Z | Merge remote-tracking branch 'origin/main'
     048a8bb | Author: Ryan Hastie <231561729+ryanhastie5890@users.noreply.github.com> | Committer: Ryan Hastie <231561729+ryanhastie5890@users.noreply.github.com> | Date: 2025-10-07T20:00:32Z | Merge branch 'lab7'
-    20f11b4 | Author: Ryan Hastie <231561729+ryanhastie5890@users.noreply.github.com> | Committer: Ryan Hastie <231561729+ryanhastie5890@users.noreply.github.com> | Date: 2025-10-07T20:00:21Z | m
-    08052d5 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T19:52:47Z | Auto-update branch-info.txt
-    90a99bf | Author: Ryan Hastie <231561729+ryanhastie5890@users.noreply.github.com> | Committer: Ryan Hastie <231561729+ryanhastie5890@users.noreply.github.com> | Date: 2025-10-07T19:52:19Z | fixed some stuff
