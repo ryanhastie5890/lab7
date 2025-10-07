@@ -291,13 +291,12 @@ def test_logger(mock_logger):
     result = create_recognizer_result("PERSON",.5,10,11)
     Pargs, args  = mock_logger.info.call_args
     argsExp = ["PERSON",.5,10,11]
-    assert mock_logger.info()
+    mock_logger.info()
+    #mock_logger.info.assert_called_with("PERSON",.5,10,11)
     
     for arg in args:
         assert arg in argsExp
-        
-
-    #mock_logger.info.assert_called_with("PERSON",.5,10,11)
+       
 
 
 def create_recognizer_result(entity_type: str, score: float, start: int, end: int):
