@@ -294,8 +294,8 @@ def test_logger(mock_logger):
     mock_logger.info()
     #mock_logger.info.assert_called_with("PERSON",.5,10,11)
     
-    for arg in args:
-        assert arg in argsExp
+    for keyword in args:
+        assert keyword in argsExp
        
 
 
