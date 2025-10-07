@@ -287,7 +287,7 @@ def test_given_negative_start_or_endpoint_then_we_fail(start, end):
 from unittest import mock
 @mock.patch.object(RecognizerResult, "logger")
 def test_logger(mock_logger):
-    # replace the following line of `pass` with your test implementation
+    # eplace the following line of `pass` with your test implementation
     result = create_recognizer_result("PERSON",.5,10,11)
     args  = mock_logger.info.call_args
     assert mock_logger.info()
