@@ -16,11 +16,11 @@ Branches in this repo (with details):
     1e967e0 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T16:53:16Z | Auto-update branch-info.txt
     905b61b | Author: Ryan Hastie <231561729+ryanhastie5890@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-07T12:53:05-04:00 | Initial commit
 - main
-  SHA: 90a99bf6a778ab7303db94c915e4a83d62e7fee1
-  Commits: 20
+  SHA: fde8dc7a08660681eeea2a9d98596b3a1e409811
+  Commits: 24
   Recent commits:
+    fde8dc7 | Author: Ryan Hastie <231561729+ryanhastie5890@users.noreply.github.com> | Committer: Ryan Hastie <231561729+ryanhastie5890@users.noreply.github.com> | Date: 2025-10-07T20:01:14Z | Merge remote-tracking branch 'origin/main'
+    048a8bb | Author: Ryan Hastie <231561729+ryanhastie5890@users.noreply.github.com> | Committer: Ryan Hastie <231561729+ryanhastie5890@users.noreply.github.com> | Date: 2025-10-07T20:00:32Z | Merge branch 'lab7'
+    20f11b4 | Author: Ryan Hastie <231561729+ryanhastie5890@users.noreply.github.com> | Committer: Ryan Hastie <231561729+ryanhastie5890@users.noreply.github.com> | Date: 2025-10-07T20:00:21Z | m
+    08052d5 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T19:52:47Z | Auto-update branch-info.txt
     90a99bf | Author: Ryan Hastie <231561729+ryanhastie5890@users.noreply.github.com> | Committer: Ryan Hastie <231561729+ryanhastie5890@users.noreply.github.com> | Date: 2025-10-07T19:52:19Z | fixed some stuff
-    adc5775 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T19:44:45Z | Auto-update branch-info.txt
-    f1a1222 | Author: Ryan Hastie <231561729+ryanhastie5890@users.noreply.github.com> | Committer: Ryan Hastie <231561729+ryanhastie5890@users.noreply.github.com> | Date: 2025-10-07T19:44:22Z | Merge remote-tracking branch 'origin/main'
-    7ef7c99 | Author: Ryan Hastie <231561729+ryanhastie5890@users.noreply.github.com> | Committer: Ryan Hastie <231561729+ryanhastie5890@users.noreply.github.com> | Date: 2025-10-07T19:43:15Z | Merge commit 'e6160800efbf2639e24990f0e2db2019451ffc8c'
-    e616080 | Author: Ryan Hastie <231561729+ryanhastie5890@users.noreply.github.com> | Committer: Ryan Hastie <231561729+ryanhastie5890@users.noreply.github.com> | Date: 2025-10-07T19:40:44Z | fixed a name
