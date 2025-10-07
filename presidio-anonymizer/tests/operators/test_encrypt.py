@@ -63,7 +63,7 @@ def test_given_verifying_an_invalid_length_bytes_key_then_ipe_raised(mock_encryp
         Encrypt().validate(params={"key": b'1111111111111111'})
 
 @mock.patch.object(AESCipher, "encrypt")
-def test_operators_name(mock_encrypt):
+def test_operator_name(mock_encrypt):
     result = Encrypt().operator_name()
     assert result =="encrypt"
    
