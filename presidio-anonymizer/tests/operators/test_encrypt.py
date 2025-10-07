@@ -55,7 +55,7 @@ def test_given_verifying_an_invalid_length_key_then_ipe_raised():
 
 @mock.patch.object(AESCipher, "encrypt") # hint: replace encrypt with the method that you want to mock
 def test_given_verifying_an_invalid_length_bytes_key_then_ipe_raised(mock_encrypt): # hint: replace mock_encrypt with a proper name for your mocker
-    # Here: add setup for mocking
+    # Here: add setup for mockin
     with pytest.raises(
         InvalidParamError,
         match="Invalid input, key must be of length 128, 192 or 256 bits",
