@@ -1,14 +1,14 @@
 Branches in this repo (with details):
 
-- dependabot/docker/presidio-anonymizer/python-3.14-windowsservercore
-  SHA: 2b7de468c56f23ff9482481f1ac788a64be40431
-  Commits: 46
+- dependabot/docker/presidio-anonymizer/python-3.15.0a5-windowsservercore
+  SHA: 6fde16788c68bf3359e8cdd06be42cde3a68fda4
+  Commits: 48
   Recent commits:
-    2b7de46 | Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-11-01T13:20:51Z | Bump python in /presidio-anonymizer
+    6fde167 | Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2026-02-01T13:57:53Z | Bump python in /presidio-anonymizer
+    62f7164 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-11-24T14:57:48Z | Auto-update branch-info.txt
+    bff6014 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-11-01T13:20:59Z | Auto-update branch-info.txt
     cd719d1 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T22:36:23Z | Auto-update branch-info.txt
     47e987e | Author: Ryan Hastie <231561729+ryanhastie5890@users.noreply.github.com> | Committer: Ryan Hastie <231561729+ryanhastie5890@users.noreply.github.com> | Date: 2025-10-07T22:35:50Z | Merge branch 'lab7'
-    266fcc3 | Author: Ryan Hastie <231561729+ryanhastie5890@users.noreply.github.com> | Committer: Ryan Hastie <231561729+ryanhastie5890@users.noreply.github.com> | Date: 2025-10-07T22:34:49Z | keyword
-    6b98fcf | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T22:31:12Z | Auto-update branch-info.txt
 - dependabot/github_actions/actions/checkout-6
   SHA: 11f981fbf4cb865b55627561a3b435e51b4ec1c3
   Commits: 47
@@ -27,11 +27,11 @@ Branches in this repo (with details):
     1e967e0 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T16:53:16Z | Auto-update branch-info.txt
     905b61b | Author: Ryan Hastie <231561729+ryanhastie5890@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-07T12:53:05-04:00 | Initial commit
 - main
-  SHA: bff60149236197f612190955764213a763a389d2
-  Commits: 46
+  SHA: 62f7164bae417ddc5add150e2aeb2994288d4819
+  Commits: 47
   Recent commits:
+    62f7164 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-11-24T14:57:48Z | Auto-update branch-info.txt
     bff6014 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-11-01T13:20:59Z | Auto-update branch-info.txt
     cd719d1 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T22:36:23Z | Auto-update branch-info.txt
     47e987e | Author: Ryan Hastie <231561729+ryanhastie5890@users.noreply.github.com> | Committer: Ryan Hastie <231561729+ryanhastie5890@users.noreply.github.com> | Date: 2025-10-07T22:35:50Z | Merge branch 'lab7'
     266fcc3 | Author: Ryan Hastie <231561729+ryanhastie5890@users.noreply.github.com> | Committer: Ryan Hastie <231561729+ryanhastie5890@users.noreply.github.com> | Date: 2025-10-07T22:34:49Z | keyword
-    6b98fcf | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T22:31:12Z | Auto-update branch-info.txt
